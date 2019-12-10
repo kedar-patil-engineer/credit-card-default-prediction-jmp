@@ -64,6 +64,10 @@ JMP Pro (SAS), statistical data mining and predictive modeling.
 - `Project_F.jmp` - JMP project data and models
 - `Project Overview.docx` - project summary
 
+## License
+
+This project is released under the MIT License. See [LICENSE](LICENSE).
+
 ## Author
 
 Kedar Patil - MS Business Analytics, California State University, East Bay
